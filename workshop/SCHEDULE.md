@@ -43,7 +43,7 @@ The planned schedule for the June 2024 Data Lab Virtual Training Workshop "Intro
 | 5:00  PM    | *Adjourn for the day*             |
 | | |    |
 | **Day 4**   | **2024-06-13**  <br> _**Introduction to Single-cell RNA-seq, Day 3**_ | |
-| 12:00 PM    | [Cell type annotation](#../completed-notebooks/06-celltype_annotation.nb.html) <br> [Cell type annotation slides (PDF)]() | Zoom: [Main Session](../software-setup/zoom-procedures.md) |
+| 12:00 PM    | [Cell type annotation](#../completed-notebooks/06-celltype_annotation.nb.html) <br> [Cell type annotation slides (PDF)](#STUB) | Zoom: [Main Session](../software-setup/zoom-procedures.md) |
 | 2:30 PM     | Questions and introduction to the exercise | Zoom: [Breakout Rooms](../software-setup/zoom-procedures.md#using-breakout-rooms) |
 |             | Exercises and [consultation sessions](workshop-logistics.md#consultation-sessions) | [Slack channel](../software-setup/slack-procedures.md)|
 |             | [Exercise: scRNA-seq cell type annotation](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/exercise_03-celltype.Rmd) | |
