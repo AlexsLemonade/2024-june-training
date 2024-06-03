@@ -35,7 +35,7 @@ The planned schedule for the June 2024 Data Lab Virtual Training Workshop "Intro
 | 5:00  PM    | *Adjourn for the day*             |
 | | |         |
 | **Day 3**   | **2024-06-12**  <br> _**Introduction to Single-cell RNA-seq, Day 2**_ |
-| 12:00 PM    | [Dimension reduction & visualization](../completed-notebooks/scRNA-seq/04-dimension_reduction_scRNA.nb.html) <br> [Dimension reduction and clustering slides (PDF)](#STUB) | Zoom: [Main Session](../software-setup/zoom-procedures.md)|
+| 12:00 PM    | [Dimension reduction & visualization](../completed-notebooks/scRNA-seq/04-dimension_reduction_scRNA.nb.html) <br> [Dimension reduction and clustering slides (PDF)](../slides/2024-06-12_dimension_reduction_clustering.pdf) | Zoom: [Main Session](../software-setup/zoom-procedures.md)|
 | 1:30 PM     | [Clustering and marker identification](../completed-notebooks/scRNA-seq/05-clustering_markers_scRNA.nb.html) | Zoom: [Main Session](../software-setup/zoom-procedures.md) |
 | 3:00 PM     | Questions and introduction to the exercise | Zoom: [Breakout Rooms](../software-setup/zoom-procedures.md#using-breakout-rooms) |
 |             | [Exercise: scRNA-seq clustering](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/exercise_02-scrna_clustering.Rmd) | |
@@ -43,7 +43,7 @@ The planned schedule for the June 2024 Data Lab Virtual Training Workshop "Intro
 | 5:00  PM    | *Adjourn for the day*             |
 | | |    |
 | **Day 4**   | **2024-06-13**  <br> _**Introduction to Single-cell RNA-seq, Day 3**_ | |
-| 12:00 PM    | [Cell type annotation](../completed-notebooks/scRNA-seq/06-celltype_annotation.nb.html) <br> [Cell type annotation slides (PDF)](#STUB) | Zoom: [Main Session](../software-setup/zoom-procedures.md) |
+| 12:00 PM    | [Cell type annotation](../completed-notebooks/scRNA-seq/06-celltype_annotation.nb.html) <br> [Cell type annotation slides (PDF)](../slides/2024-06-13_cell_type_assignment.pdf) | Zoom: [Main Session](../software-setup/zoom-procedures.md) |
 | 2:30 PM     | Questions and introduction to the exercise | Zoom: [Breakout Rooms](../software-setup/zoom-procedures.md#using-breakout-rooms) |
 |             | Exercises and [consultation sessions](workshop-logistics.md#consultation-sessions) | [Slack channel](../software-setup/slack-procedures.md)|
 |             | [Exercise: scRNA-seq cell type annotation](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/exercise_03-celltype.Rmd) | |
